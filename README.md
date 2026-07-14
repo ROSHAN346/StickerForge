@@ -1,4 +1,4 @@
-# Sticker Forge — Telegram Sticker Generator
+# [Sticker Forge — Telegram Sticker Generator](https://sticker-forge-gules.vercel.app)
 
 Create custom Telegram sticker packs from images, GIFs, and videos. Users paste their own bot token, upload files, and get a shareable `https://t.me/addstickers/<name>` link. No token storage — everything is processed in-memory per request.
 
